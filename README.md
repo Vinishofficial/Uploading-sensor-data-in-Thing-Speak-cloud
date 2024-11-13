@@ -1,6 +1,6 @@
-# NAME : VINISHRAJ R
-# REG NO : 212223230243
-# Uploading temperature sensor data in Thing Speak cloud
+## NAME : VINISHRAJ R
+## REG NO : 212223230243
+# EX 03 : Uploading temperature sensor data in Thing Speak cloud
 
 # AIM:
 To monitor the temperature sensor data in the Thing speak using an ESP32 controller.
@@ -132,6 +132,7 @@ void loop()
 ![328375113-08e72a7c-92bd-49fa-bac9-bbe8c99db917](https://github.com/user-attachments/assets/d5f504b2-b9d3-4e60-b7ef-df836d98a3ac)
 
 # OUTPUT:
+## ThinkSpeak:
 ![Screenshot 2024-10-30 103252](https://github.com/user-attachments/assets/fdb3b083-a641-4712-83bb-6b7f0bb6108b)
 
 # RESULT:
